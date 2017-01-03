@@ -1,0 +1,10 @@
+Magnus Carlsen
+30
+Garry Kasparov
+60
+Mikhail Tal
+120
+Capablanca
+180
+Paul Morphy
+240
